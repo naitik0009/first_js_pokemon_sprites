@@ -1,0 +1,13 @@
+.pokemon {
+    display: inline-block;
+    text-align: center;
+    background-color: brown;
+}
+.pokemon img {
+    display: block;
+}
+.heading {
+    text-align: center;
+    font-style: oblique;
+    background-color: aquamarine;
+}
